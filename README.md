@@ -1,1 +1,1 @@
-# CTWS
+# Computing Tools Workshop Projects
